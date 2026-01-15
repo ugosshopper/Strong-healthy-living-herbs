@@ -1,3 +1,11 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<h1>Strong Healthy Living Herbs 🌿</h1>
+<p>Natural wellness for healthy ageing</p>
+
+<ul>
+<li><a href="herbs/ginger.md">Ginger</a></li>
+<li><a href="herbs/moringa.md">Moringa</a></li>
+</ul>
 ## 📚 Resources
 - [Moringa](moringa.md)
 - [Ginger](ginger.md)
@@ -22,3 +30,5 @@
 - Men’s Vitality & Energy
 
 📩 Downloadable guides coming soon.
+
+
