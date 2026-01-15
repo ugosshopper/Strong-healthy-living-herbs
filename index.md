@@ -15,3 +15,10 @@
 - [Uziza](uziza.md)
 - [Scent Leaf](scent-leaf.md)
 - [Lemongrass](lemongrass.md)
+  ## 🩺 Health-Specific Herbal Guides
+- Blood Pressure Support Herbs
+- Diabetes Support Herbs
+- Women’s Hormonal Health
+- Men’s Vitality & Energy
+
+📩 Downloadable guides coming soon.
