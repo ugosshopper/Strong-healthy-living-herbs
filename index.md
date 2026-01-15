@@ -1,3 +1,27 @@
+## 📚 Herbs
+- [Ginger](herbs/ginger.md)
+- [Moringa](herbs/moringa.md)
+- [Turmeric](herbs/turmeric.md)
+- [Garlic](herbs/garlic.md)
+- [Hibiscus](herbs/hibiscus.md)
+- [Scent Leaf](herbs/scent-leaf.md)
+- [Bitter Leaf](herbs/bitter-leaf.md)
+- [Cloves](herbs/cloves.md)
+- [Cinnamon](herbs/cinnamon.md)
+- [Lemongrass](herbs/lemongrass.md)
+- [Aloe Vera](herbs/aloe-vera.md)
+- [Pawpaw Leaf](herbs/pawpaw-leaf.md)
+- [Guava Leaf](herbs/guava-leaf.md)
+- [Neem](herbs/neem.md)
+- [African Basil](herbs/african-basil.md)
+- [Fenugreek](herbs/fenugreek.md)
+- [Black Seed](herbs/black-seed.md)
+- [Flaxseed](herbs/flaxseed.md)
+- [Chia Seed](herbs/chia-seed.md)
+- [Pumpkin Seed](herbs/pumpkin-seed.md)
+
+
+
 # Ginger 🌿
 
 ## Scientific Name
