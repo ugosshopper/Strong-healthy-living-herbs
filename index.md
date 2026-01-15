@@ -1,3 +1,29 @@
+# Ginger 🌿
+
+## Scientific Name
+Zingiber officinale
+
+## Local Names
+- Hausa: Citta  
+- Yoruba: Atalẹ  
+- Igbo: Jinja  
+
+## Benefits
+- Improves digestion
+- Reduces inflammation
+- Supports immunity
+- Helps blood sugar control
+
+## Preparation
+Boil fresh ginger slices for 10 minutes.
+
+## Dosage
+1 cup daily
+
+## Safety
+Avoid excessive use with blood-thinning drugs.
+
+
 # Strong Healthy Living Herbs 🌿
 
 Welcome to your guide to natural herbs for healthy ageing, wellness, and vitality.
