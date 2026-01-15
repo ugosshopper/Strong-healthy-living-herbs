@@ -1,5 +1,22 @@
 # Strong Healthy Living Herbs 🌿
 
+Welcome to your guide to natural herbs for healthy ageing, wellness, and vitality.
+
+## 📚 Herbs
+- [Ginger](herbs/ginger.md)
+- [Moringa](herbs/moringa.md)
+- [Turmeric](herbs/turmeric.md)
+- [Garlic](herbs/garlic.md)
+- [Hibiscus](herbs/hibiscus.md)
+- [Scent Leaf](herbs/scent-leaf.md)
+
+## 📩 Join Our Community
+- Email: ugoshealth@gmail.com
+- WhatsApp: [Chat with us](https://wa.me/234XXXXXXXXXX)
+
+
+# Strong Healthy Living Herbs 🌿
+
 Welcome to your guide to natural herbs for healthy ageing.
 
 ## Herbs
